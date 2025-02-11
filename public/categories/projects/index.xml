@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Portfolio</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Portfolio</description>
+    <title>Projects on Portfolio</title>
+    <link>http://localhost:1313/categories/projects/</link>
+    <description>Recent content in Projects on Portfolio</description>
     <generator>Hugo -- 0.136.1</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Feb 2025 08:15:13 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Excel Projects</title>
       <link>http://localhost:1313/posts/excel-projects/</link>
       <pubDate>Tue, 11 Feb 2025 08:15:13 -0400</pubDate>
       <guid>http://localhost:1313/posts/excel-projects/</guid>
       <description>Detailed explanation for SEO.</description>
-    </item>
-    <item>
-      <title>Welcome to My Data Analyst Portfolio</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Tue, 11 Feb 2025 07:33:04 -0400</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>A portfolio highlighting my expertise in data analysis, Python, R, SQL, and visualization tools.</description>
     </item>
   </channel>
 </rss>

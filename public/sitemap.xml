@@ -3,21 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-02-11T07:33:04-04:00</lastmod>
+    <lastmod>2025-02-11T08:15:13-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/excel/</loc>
+    <lastmod>2025-02-11T08:15:13-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/excel-projects/</loc>
+    <lastmod>2025-02-11T08:15:13-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-02-11T08:15:13-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/portfolio/</loc>
+    <lastmod>2025-02-11T08:15:13-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-02-11T08:15:13-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/projects/</loc>
+    <lastmod>2025-02-11T08:15:13-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-02-11T08:15:13-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/data-analysis/</loc>
     <lastmod>2025-02-11T07:33:04-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-02-11T07:33:04-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/portfolio/</loc>
-    <lastmod>2025-02-11T07:33:04-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/portfolio/</loc>
-    <lastmod>2025-02-11T07:33:04-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-02-11T07:33:04-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/python/</loc>
@@ -27,9 +39,6 @@
     <lastmod>2025-02-11T07:33:04-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sql/</loc>
-    <lastmod>2025-02-11T07:33:04-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-02-11T07:33:04-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/visualization/</loc>
