@@ -5,8 +5,7 @@ draft: false
 author: "Reinaldo Pared"
 summary: "This repository showcases a collection of my Excel projects focused on data analysis and visualization."
 description: "This repository showcases a collection of my Excel projects focused on data analysis and visualization."
-tags: ["Excel", "Data Analysis", "Visualization"]
-categories: ["Portfolio", "Projects"]
+tags: ["Excel", "Data Analysis", "Visualization", "Projects"]
 showToc: true
 ---
 
