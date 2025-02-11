@@ -9,8 +9,7 @@ tags: ["Data Analysis", "Portfolio", "Python", "R", "SQL", "Visualization"]
 categories: ["Portfolio"]
 menu: "main"
 type: "portfolio"
-featured_image: "/images/fabio-oyXis2kALVg-unsplash.jpg"
-showToc: true
+showToc: false
 ---
 
 ## Introduction
