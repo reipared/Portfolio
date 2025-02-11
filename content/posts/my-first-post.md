@@ -6,7 +6,6 @@ author: "Reinaldo"
 summary: "Showcasing my data analysis projects, skills, and experience."
 description: "A portfolio highlighting my expertise in data analysis, Python, R, SQL, and visualization tools."
 tags: ["Data Analysis", "Portfolio", "Python", "R", "SQL", "Visualization"]
-categories: ["Portfolio"]
 menu: "main"
 type: "portfolio"
 showToc: false
