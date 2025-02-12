@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Visualization on Portfolio</title>
-    <link>http://localhost:1313/tags/visualization/</link>
-    <description>Recent content in Visualization on Portfolio</description>
+    <title>Automation on Portfolio</title>
+    <link>http://localhost:1313/tags/automation/</link>
+    <description>Recent content in Automation on Portfolio</description>
     <generator>Hugo -- 0.136.1</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Feb 2025 08:55:15 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/automation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python Projects</title>
       <link>http://localhost:1313/posts/python-projects/</link>
       <pubDate>Wed, 12 Feb 2025 08:55:15 -0400</pubDate>
       <guid>http://localhost:1313/posts/python-projects/</guid>
       <description>This repository showcases a collection of my Python projects focused on data analysis, automation, and visualization.</description>
-    </item>
-    <item>
-      <title>Excel Projects</title>
-      <link>http://localhost:1313/posts/excel-projects/</link>
-      <pubDate>Tue, 11 Feb 2025 08:15:13 -0400</pubDate>
-      <guid>http://localhost:1313/posts/excel-projects/</guid>
-      <description>This repository showcases a collection of my Excel projects focused on data analysis and visualization.</description>
     </item>
   </channel>
 </rss>

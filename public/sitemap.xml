@@ -2,28 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/excel/</loc>
-    <lastmod>2025-02-12T08:06:46-04:00</lastmod>
+    <loc>http://localhost:1313/tags/automation/</loc>
+    <lastmod>2025-02-12T08:55:15-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-analysis/</loc>
+    <lastmod>2025-02-12T08:55:15-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-02-12T08:55:15-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-02-12T08:55:15-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/projects/</loc>
+    <lastmod>2025-02-12T08:55:15-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/python/</loc>
+    <lastmod>2025-02-12T08:55:15-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/python-projects/</loc>
+    <lastmod>2025-02-12T08:55:15-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-02-12T08:55:15-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/visualization/</loc>
+    <lastmod>2025-02-12T08:55:15-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/excel/</loc>
     <lastmod>2025-02-12T08:06:46-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/portfolio/</loc>
     <lastmod>2025-02-12T08:06:46-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-02-12T08:06:46-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/power-bi/</loc>
     <lastmod>2025-02-12T08:06:46-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/projects/</loc>
-    <lastmod>2025-02-12T08:06:46-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/all-the-projects/</loc>
-    <lastmod>2025-02-12T08:06:46-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2025-02-12T08:06:46-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/r/</loc>
@@ -35,16 +50,7 @@
     <loc>http://localhost:1313/tags/tableau/</loc>
     <lastmod>2025-02-12T08:06:46-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-02-12T08:06:46-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/data-analysis/</loc>
-    <lastmod>2025-02-11T08:15:13-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/excel-projects/</loc>
-    <lastmod>2025-02-11T08:15:13-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/visualization/</loc>
     <lastmod>2025-02-11T08:15:13-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/about-me/</loc>
