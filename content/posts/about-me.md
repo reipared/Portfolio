@@ -11,7 +11,7 @@ type: "portfolio"
 showToc: false
 ---
 
-# 👋 Hi, I'm Reinaldo
+## 👋 Hi, I'm Reinaldo
 
 I'm a **data analyst** with a strong background in **IT and Digital Marketing**, now fully transitioning into the data world.
 
