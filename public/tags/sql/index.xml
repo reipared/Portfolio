@@ -6,14 +6,14 @@
     <description>Recent content in SQL on Portfolio</description>
     <generator>Hugo -- 0.136.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Feb 2025 07:33:04 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 08:06:46 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/sql/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome to My Data Analyst Portfolio</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Tue, 11 Feb 2025 07:33:04 -0400</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>A portfolio highlighting my expertise in data analysis, Python, R, SQL, and visualization tools.</description>
+      <title>Projects</title>
+      <link>http://localhost:1313/posts/projects-index/</link>
+      <pubDate>Wed, 12 Feb 2025 08:06:46 -0400</pubDate>
+      <guid>http://localhost:1313/posts/projects-index/</guid>
+      <description>Explore my data analysis projects using Tableau, Excel, Power BI, SQL, Python, and R.</description>
     </item>
   </channel>
 </rss>

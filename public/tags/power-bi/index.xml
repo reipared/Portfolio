@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Excel on Portfolio</title>
-    <link>http://localhost:1313/tags/excel/</link>
-    <description>Recent content in Excel on Portfolio</description>
+    <title>Power BI on Portfolio</title>
+    <link>http://localhost:1313/tags/power-bi/</link>
+    <description>Recent content in Power BI on Portfolio</description>
     <generator>Hugo -- 0.136.1</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Feb 2025 08:06:46 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/excel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/power-bi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
       <link>http://localhost:1313/posts/projects-index/</link>
       <pubDate>Wed, 12 Feb 2025 08:06:46 -0400</pubDate>
       <guid>http://localhost:1313/posts/projects-index/</guid>
       <description>Explore my data analysis projects using Tableau, Excel, Power BI, SQL, Python, and R.</description>
-    </item>
-    <item>
-      <title>Excel Projects</title>
-      <link>http://localhost:1313/posts/excel-projects/</link>
-      <pubDate>Tue, 11 Feb 2025 08:15:13 -0400</pubDate>
-      <guid>http://localhost:1313/posts/excel-projects/</guid>
-      <description>This repository showcases a collection of my Excel projects focused on data analysis and visualization.</description>
     </item>
   </channel>
 </rss>

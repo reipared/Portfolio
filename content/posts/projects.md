@@ -1,12 +1,12 @@
 ---
 title: "Projects"
 date: "2025-02-12T08:06:46-04:00"
-draft: true
+draft: false
 author: "Reinaldo Pared"
 summary: "A showcase of my data analysis and visualization projects."
 description: "Explore my data analysis projects using Tableau, Excel, Power BI, SQL, Python, and R."
 tags: ["Python", "SQL", "Excel", "Tableau", "R", "Power BI", "SQL", "Portfolio", "Projects"]
-showToc: true
+showToc: false
 ---
 
 ## 📊 My Data Analytics Projects

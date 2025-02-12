@@ -2,4 +2,15 @@ baseURL: https://example.org/
 languageCode: en-us
 title: Portfolio
 theme: ["PaperMod"]
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "Projects"
+      url: "/posts/projects/"
+      weight: 2
+    - name: "Blog"
+      url: "/posts/"
+      weight: 3
 

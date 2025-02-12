@@ -6,8 +6,6 @@ author: "Reinaldo"
 summary: "A passionate data analyst with a background in IT and digital marketing."
 description: "Discover my journey from IT to data analytics, my expertise, and how I help businesses make data-driven decisions."
 tags: ["Data Analyst", "Portfolio", "About Me"]
-menu: "main"
-type: "portfolio"
 showToc: false
 ---
 
