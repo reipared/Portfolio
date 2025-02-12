@@ -13,4 +13,7 @@ menu:
     - name: "Blog"
       url: "/posts/"
       weight: 3
+    - name: "About Me"
+      url: "/posts/about/"
+      weight: 4
 
