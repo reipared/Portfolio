@@ -8,7 +8,7 @@ menu:
       url: "/"
       weight: 1
     - name: "Projects"
-      url: "/posts/projects/"
+      url: "/posts/all-the-projects/"
       weight: 2
     - name: "Blog"
       url: "/posts/"
