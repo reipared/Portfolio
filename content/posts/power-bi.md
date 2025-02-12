@@ -1,7 +1,7 @@
 ---
 title: "Power Bi Projects"
 date: "2025-02-12T15:07:52-04:00"
-draft: true
+draft: false
 author: "Reinaldo Pared"
 summary: "This repository showcases a collection of my Power BI projects focused on data visualization, business intelligence, and analytics."
 description: "This repository showcases a collection of my Power BI projects focused on data visualization, business intelligence, and analytics."
