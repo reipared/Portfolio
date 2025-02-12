@@ -10,10 +10,10 @@ menu:
     - name: "Projects"
       url: "/posts/all-the-projects/"
       weight: 2
-    - name: "Blog"
-      url: "/posts/"
-      weight: 3
     - name: "About Me"
       url: "/posts/about/"
+      weight: 3
+    - name: "Blog"
+      url: "/posts/"
       weight: 4
 
