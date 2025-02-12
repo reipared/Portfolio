@@ -22,3 +22,7 @@ Feel free to explore the projects and see how I use Python to extract meaningful
 ## [**Bookstore Web Scraping**](https://github.com/reipared/Bookstore_Web_Scraping_with_Python)
 
 This project is a web scraper for [Books to Scrape](https://books.toscrape.com), an online bookstore for testing web scraping scripts. The scraper downloads HTML pages from the site and extracts product information, such as book titles, prices, and URLs saving the data into a csv file.
+
+## [**BMI Calcualtor**](https://github.com/reipared/bmi_calculator)
+
+This project calculates the Body Mass Index (BMI) based on user input.
