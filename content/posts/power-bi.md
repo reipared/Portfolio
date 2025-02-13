@@ -19,6 +19,8 @@ Here you'll find Power BI projects that highlight my expertise in transforming r
 
 Feel free to explore the projects and see how I use Power BI to create meaningful data visualizations and drive business decisions.
 
-## [**Data Professional Survey Breakdown**](https://github.com/reipared/data_professional_survey_breakdown)
+## **Data Professional Survey Breakdown**
 
 This Power BI report provides a breakdown of survey responses from data professionals. It visualizes key insights related to demographics, salaries, job satisfaction, and industry trends.
+
+📊 [**View Source**](https://github.com/reipared/data_professional_survey_breakdown)

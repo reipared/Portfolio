@@ -17,9 +17,9 @@ I specialize in **data analysis, visualization, and automation**, using tools li
 
 - [📌 Tableau Projects](#-tableau-projects)
 - [📌 Power BI Projects](#-power-bi-projects)
-- [📌 Excel Projects](https://reipared.github.io/Portfolio/posts/excel-projects/)
-- [📌 SQL Projects](https://reipared.github.io/Portfolio/posts/sql-projects/)
-- [📌 Python Projects](https://reipared.github.io/Portfolio/posts/python-projects/)
+- [📌 Excel Projects](#-excel-projects)
+- [📌 SQL Projects](#-sql-projects)
+- [📌 Python Projects](#-python-projects)
 
 ---
 
@@ -41,7 +41,7 @@ Automated monthly reports for stakeholders.
 
 ---
 
-## [**📌 Power BI Projects**](https://reipared.github.io/Portfolio/posts/power-bi/)
+## **📌 Power BI Projects**
 
 ### 🏆 **Data Professional Survey Breakdown**
 
@@ -51,21 +51,21 @@ Automated monthly reports for stakeholders.
 
 - This Power BI report provides a breakdown of survey responses from data professionals. It visualizes key insights related to demographics, salaries, job satisfaction, and industry trends.
 
+### 📊 [More Projects](https://reipared.github.io/Portfolio/posts/power-bi/)
+
 ---
 
 ## **📌 Excel Projects**
 
-### 📊 **Inventory Management Tracker**
+### 📊 **Bike Buyers Analysis**
 
-📅 **Date**: November 2024
-
-📊 **Tools**: Excel, VBA, Power Query
+🔗 [View Project](https://github.com/reipared/Excel_Projects/tree/main/Bike_Sales)
 
 📄 **Summary**:
 
-- Developed an **inventory tracking system** for a retail business.
-- Used **Power Query** to clean and transform data.
-- Automated reporting with **Excel formulas and VBA macros**.
+- This repository contains a comprehensive analysis of bike purchase patterns. By exploring factors like age, gender, income, and commute distance, this project aims to uncover valuable insights for bike retailers and marketers. Key techniques such as pivot tables and data visualizations were employed to identify trends and make data-driven recommendations.
+
+### 📊 [More Projects](https://reipared.github.io/Portfolio/posts/excel-projects/)
 
 ---
 
@@ -83,9 +83,11 @@ Automated monthly reports for stakeholders.
 - Wrote **complex SQL queries** to extract insights on customer behavior.
 - Optimized queries for **faster performance and scalability**.
 
+### 📊 [More Projects](https://reipared.github.io/Portfolio/posts/sql-projects/)
+
 ---
 
-## **📌 Python & R Projects**
+## **📌 Python Projects**
 
 ### 📊 **Predictive Analytics – Sales Forecasting**
 
@@ -98,6 +100,8 @@ Automated monthly reports for stakeholders.
 - Used **time-series forecasting** (ARIMA, Prophet) to predict sales trends.
 - Visualized patterns with **Matplotlib & ggplot2**.
 - Delivered **data-driven recommendations** for business growth.
+
+### 📊 [More Projects](https://reipared.github.io/Portfolio/posts/python-projects/)
 
 ## 📩 **Want to Collaborate?**
 
