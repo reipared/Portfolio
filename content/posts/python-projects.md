@@ -30,3 +30,7 @@ This project calculates the Body Mass Index (BMI) based on user input.
 ## [**Automatic File Sorter in File Explorer**](https://github.com/reipared/automatic_file_sorter)
 
 This Python script automatically organizes files in a specified directory by moving them into categorized folders based on their extensions. It currently sorts Excel (.xlsx), image (.jpg), and text (.txt) files into separate folders.
+
+## [**Inventory Analysis**](https://github.com/reipared/python_automation)
+
+This code performs an analysis of an inventory stored in an Excel file. It uses the openpyxl library to read and manipulate the Excel data.
