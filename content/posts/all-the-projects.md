@@ -15,8 +15,8 @@ I specialize in **data analysis, visualization, and automation**, using tools li
 
 🔗 **Jump to:**
 
-- [📌 Tableau Projects](tableau-projects)
-- [📌 Power BI Projects](https://reipared.github.io/Portfolio/posts/power-bi/)
+- [📌 Tableau Projects](#-tableau-projects)
+- [📌 Power BI Projects](#-power-bi-projects)
 - [📌 Excel Projects](https://reipared.github.io/Portfolio/posts/excel-projects/)
 - [📌 SQL Projects](https://reipared.github.io/Portfolio/posts/sql-projects/)
 - [📌 Python Projects](https://reipared.github.io/Portfolio/posts/python-projects/)
@@ -25,37 +25,31 @@ I specialize in **data analysis, visualization, and automation**, using tools li
 
 ## **📌 Tableau Projects**
 
-### 🏆 **Sales Dashboard - Retail Analysis**
+### 🏆 Sales Dashboard - Retail Analysis
 
 📅 **Date**: January 2025
 
-🔗 [View Dashboard](https://public.tableau.com/your-link)
+🔗 View Dashboard
 
 📊 **Tools**: Tableau, SQL, Excel
 
 📄 **Summary**:
 
-- Built an **interactive sales dashboard** to track revenue, profit, and regional performance.
-- Used **calculated fields & filters** to analyze customer trends.
-- Automated **monthly reports** for stakeholders.
+Built an interactive sales dashboard to track revenue, profit, and regional performance.
+Used calculated fields & filters to analyze customer trends.
+Automated monthly reports for stakeholders.
 
 ---
 
-## **📌 Power BI Projects**  
+## [**📌 Power BI Projects**](https://reipared.github.io/Portfolio/posts/power-bi/)
 
-### 📈 **Financial Performance Report**
+### 🏆 **Data Professional Survey Breakdown**
 
-📅 **Date**: December 2024
-
-🔗 [View Report](https://your-link.com)
-
-📊 **Tools**: Power BI, DAX, SQL
+🔗 [View Project](https://github.com/reipared/data_professional_survey_breakdown)
 
 📄 **Summary**:
 
-- Designed an **automated financial dashboard** to track expenses and revenue.
-- Used **DAX calculations** to create dynamic measures and KPIs.
-- Integrated **SQL queries** for real-time data updates.
+- This Power BI report provides a breakdown of survey responses from data professionals. It visualizes key insights related to demographics, salaries, job satisfaction, and industry trends.
 
 ---
 
