@@ -19,10 +19,14 @@ Here you'll find SQL projects demonstrating my ability to query, clean, and anal
 
 Explore these projects to see how I utilize SQL for data manipulation and decision-making.
 
-## [**COVID-19 SQL Analysis**](https://github.com/reipared/covid19-sql)
+## **COVID-19 SQL Analysis**
 
 This project contains various queries to analyze COVID-19 data, focusing on cases, deaths, and infection rates across different locations.
 
-## [**Nashville Housing Data Cleaning**](https://github.com/reipared/SQL_Nashville_Housing_Data_Cleaning)
+📊 [**View Source**](https://github.com/reipared/covid19-sql)
+
+## **Nashville Housing Data Cleaning**
 
 This project is used for cleaning and preprocessing the **Nashville Housing dataset**. It includes various SQL queries that standardize data formats, handle missing values, and improve overall data quality for further analysis.
+
+📊 [**View Source**](https://github.com/reipared/SQL_Nashville_Housing_Data_Cleaning)

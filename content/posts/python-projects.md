@@ -19,18 +19,26 @@ Here you'll find Python projects that cover various aspects of data analysis, au
 
 Feel free to explore the projects and see how I use Python to extract meaningful insights and automate data workflows.
 
-## [**Bookstore Web Scraping**](https://github.com/reipared/Bookstore_Web_Scraping_with_Python)
+## **Bookstore Web Scraping**
 
 This project is a web scraper for [Books to Scrape](https://books.toscrape.com), an online bookstore for testing web scraping scripts. The scraper downloads HTML pages from the site and extracts product information, such as book titles, prices, and URLs saving the data into a csv file.
 
-## [**BMI Calcualtor**](https://github.com/reipared/bmi_calculator)
+📊 [**View Source**](https://github.com/reipared/Bookstore_Web_Scraping_with_Python)
+
+## **BMI Calcualtor**
 
 This project calculates the Body Mass Index (BMI) based on user input.
 
-## [**Automatic File Sorter in File Explorer**](https://github.com/reipared/automatic_file_sorter)
+📊 [**View Source**](https://github.com/reipared/bmi_calculator)
+
+## **Automatic File Sorter in File Explorer**
 
 This Python script automatically organizes files in a specified directory by moving them into categorized folders based on their extensions. It currently sorts Excel (.xlsx), image (.jpg), and text (.txt) files into separate folders.
 
-## [**Inventory Analysis**](https://github.com/reipared/python_automation)
+📊 [**View Source**](https://github.com/reipared/automatic_file_sorter)
+
+## **Inventory Analysis**
 
 This code performs an analysis of an inventory stored in an Excel file. It uses the openpyxl library to read and manipulate the Excel data.
+
+📊 [**View Source**](https://github.com/reipared/python_automation)

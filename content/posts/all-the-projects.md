@@ -71,17 +71,11 @@ Automated monthly reports for stakeholders.
 
 ## **📌 SQL Projects**
 
-### 🗄️ **Customer Segmentation Database**
-
-📅 **Date**: October 2024
-
-📊 **Tools**: PostgreSQL, MySQL
+### 🗄️ **COVID-19 SQL Analysis**
 
 📄 **Summary**:
 
-- Designed a **relational database** to store customer transaction history.
-- Wrote **complex SQL queries** to extract insights on customer behavior.
-- Optimized queries for **faster performance and scalability**.
+This project contains various queries to analyze COVID-19 data, focusing on cases, deaths, and infection rates across different locations.
 
 ### 📊 [More Projects](https://reipared.github.io/Portfolio/posts/sql-projects/)
 
@@ -89,17 +83,11 @@ Automated monthly reports for stakeholders.
 
 ## **📌 Python Projects**
 
-### 📊 **Predictive Analytics – Sales Forecasting**
-
-📅 **Date**: September 2024
-
-📊 **Tools**: Python (Pandas, Scikit-learn), R (ggplot2)
+### 📊 [**Bookstore Web Scraping**](https://github.com/reipared/Bookstore_Web_Scraping_with_Python)
 
 📄 **Summary**:
 
-- Used **time-series forecasting** (ARIMA, Prophet) to predict sales trends.
-- Visualized patterns with **Matplotlib & ggplot2**.
-- Delivered **data-driven recommendations** for business growth.
+This project is a web scraper for [Books to Scrape](https://books.toscrape.com), an online bookstore for testing web scraping scripts. The scraper downloads HTML pages from the site and extracts product information, such as book titles, prices, and URLs saving the data into a csv file.
 
 ### 📊 [More Projects](https://reipared.github.io/Portfolio/posts/python-projects/)
 
