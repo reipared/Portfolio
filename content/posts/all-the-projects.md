@@ -19,7 +19,7 @@ I specialize in **data analysis, visualization, and automation**, using tools li
 - [📌 Power BI Projects](power-bi-projects)
 - [📌 Excel Projects](https://reipared.github.io/Portfolio/posts/excel-projects/)
 - [📌 SQL Projects](sql-projects)
-- [📌 Python & R Projects](https://reipared.github.io/Portfolio/posts/python-projects/)
+- [📌 Python Projects](https://reipared.github.io/Portfolio/posts/python-projects/)
 
 ---
 
