@@ -89,7 +89,7 @@ This project is a web scraper for [Books to Scrape](https://books.toscrape.com),
 
 ### 📊 [More Projects](https://reipared.github.io/Portfolio/posts/python-projects/)
 
-## 📩 **Want to Collaborate?**
+## 📩 **Contact Me**
 
 📧 [**Email**](reinaldopsuazo@proton.me)
 
