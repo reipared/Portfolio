@@ -71,6 +71,8 @@ This repository contains a Tableau project created using Tableau version 18.1. I
 
 ### 🗄️ **COVID-19 SQL Analysis**
 
+🔗 [View Project](https://github.com/reipared/covid19-sql)
+
 📄 **Summary**:
 
 This project contains various queries to analyze COVID-19 data, focusing on cases, deaths, and infection rates across different locations.
@@ -81,7 +83,9 @@ This project contains various queries to analyze COVID-19 data, focusing on case
 
 ## **📌 Python Projects**
 
-### 📊 [**Bookstore Web Scraping**](https://github.com/reipared/Python_Bookstore_Web_Scraping)
+### 📊 **Bookstore Web Scraping**
+
+🔗 [View Project](https://github.com/reipared/Python_Bookstore_Web_Scraping)
 
 📄 **Summary**:
 
