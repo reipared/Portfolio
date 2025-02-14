@@ -71,7 +71,7 @@ This repository contains a Tableau project created using Tableau version 18.1. I
 
 ### 🗄️ **COVID-19 SQL Analysis**
 
-🔗 [View Project](https://github.com/reipared/covid19-sql)
+🔗 [View Project](https://github.com/reipared/SQL_COVID-19_Analysis)
 
 📄 **Summary**:
 

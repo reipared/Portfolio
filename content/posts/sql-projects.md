@@ -23,7 +23,7 @@ Explore these projects to see how I utilize SQL for data manipulation and decisi
 
 This project contains various queries to analyze COVID-19 data, focusing on cases, deaths, and infection rates across different locations.
 
-📊 [**View Source**](https://github.com/reipared/covid19-sql)
+📊 [**View Source**](https://github.com/reipared/SQL_COVID-19_Analysis)
 
 ## **Nashville Housing Data Cleaning**
 
