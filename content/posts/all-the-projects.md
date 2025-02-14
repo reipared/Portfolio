@@ -81,7 +81,7 @@ This project contains various queries to analyze COVID-19 data, focusing on case
 
 ## **📌 Python Projects**
 
-### 📊 [**Bookstore Web Scraping**](https://github.com/reipared/Bookstore_Web_Scraping_with_Python)
+### 📊 [**Bookstore Web Scraping**](https://github.com/reipared/Python_Bookstore_Web_Scraping)
 
 📄 **Summary**:
 
