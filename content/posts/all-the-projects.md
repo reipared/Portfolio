@@ -49,7 +49,7 @@ This repository contains a Tableau project created using Tableau version 18.1. I
 
 - This Power BI report provides a breakdown of survey responses from data professionals. It visualizes key insights related to demographics, salaries, job satisfaction, and industry trends.
 
-### 📊 [More Projects](https://reipared.github.io/Portfolio/posts/power-bi/)
+### 📊 [More Projects](https://github.com/reipared/PowerBI_Data_Professional_Survey_Breakdown)
 
 ---
 

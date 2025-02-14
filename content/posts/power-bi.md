@@ -23,4 +23,4 @@ Feel free to explore the projects and see how I use Power BI to create meaningfu
 
 This Power BI report provides a breakdown of survey responses from data professionals. It visualizes key insights related to demographics, salaries, job satisfaction, and industry trends.
 
-📊 [**View Source**](https://github.com/reipared/data_professional_survey_breakdown)
+📊 [**View Source**](https://github.com/reipared/PowerBI_Data_Professional_Survey_Breakdown)
