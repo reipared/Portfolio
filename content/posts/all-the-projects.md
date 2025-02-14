@@ -25,19 +25,17 @@ I specialize in **data analysis, visualization, and automation**, using tools li
 
 ## **📌 Tableau Projects**
 
-### 🏆 Sales Dashboard - Retail Analysis
+### 🏆 Washington Airbnb Market 2016
 
 📅 **Date**: January 2025
 
-🔗 View Dashboard
-
-📊 **Tools**: Tableau, SQL, Excel
+🔗 [View Project](https://github.com/reipared/Tableau_Washington_Airbnb_Market_2016)
 
 📄 **Summary**:
 
-Built an interactive sales dashboard to track revenue, profit, and regional performance.
-Used calculated fields & filters to analyze customer trends.
-Automated monthly reports for stakeholders.
+This repository contains a Tableau project created using Tableau version 18.1. It includes multiple worksheets and a dashboard that visualize data from a data source.
+
+### 📊 [More Projects](https://reipared.github.io/Portfolio/posts/tableau/)
 
 ---
 
