@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-date: "2025-02-12T08:06:46-04:00"
+date: "2025-02-18T06:13:23-04:00"
 draft: false
 author: "Reinaldo Pared"
 summary: "A showcase of my data analysis and visualization projects."
