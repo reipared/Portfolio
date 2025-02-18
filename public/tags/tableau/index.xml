@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tableau on Portfolio</title>
-    <link>http://localhost:1313/tags/tableau/</link>
+    <link>https://example.org/tags/tableau/</link>
     <description>Recent content in Tableau on Portfolio</description>
     <generator>Hugo -- 0.136.1</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 18 Feb 2025 06:13:23 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/posts/all-the-projects/</link>
+      <link>https://example.org/posts/all-the-projects/</link>
       <pubDate>Tue, 18 Feb 2025 06:13:23 -0400</pubDate>
-      <guid>http://localhost:1313/posts/all-the-projects/</guid>
+      <guid>https://example.org/posts/all-the-projects/</guid>
       <description>Explore my data analysis projects using Tableau, Excel, Power BI, SQL, Python, and R.</description>
     </item>
     <item>
       <title>Tableau Projects</title>
-      <link>http://localhost:1313/posts/tableau/</link>
+      <link>https://example.org/posts/tableau/</link>
       <pubDate>Fri, 14 Feb 2025 07:46:00 -0400</pubDate>
-      <guid>http://localhost:1313/posts/tableau/</guid>
+      <guid>https://example.org/posts/tableau/</guid>
       <description>This repository showcases a collection of my Tableau projects focused on data visualization and storytelling.</description>
     </item>
   </channel>
