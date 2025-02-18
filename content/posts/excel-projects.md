@@ -27,7 +27,7 @@ This repository contains a comprehensive analysis of bike purchase patterns. By 
 
 ## **Coffee Sales Analysis**
 
-{{< figure src="/images/Excel_CoffeeHouseDashboard.png" >}}
+{{< figure src="{{< relURL /images/Excel_CoffeeHouseDashboard.png >}}" title="Coffee Sales Dashboard" >}}
 
 This project analyzes coffee sales data, including customer orders, product details, and overall sales trends. The dataset is structured to provide insights into top customers, total revenue, and sales distribution across different coffee types and regions.
 
