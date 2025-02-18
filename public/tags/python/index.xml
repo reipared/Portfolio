@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Python on Portfolio</title>
-    <link>http://localhost:1313/tags/python/</link>
+    <link>https://example.org/tags/python/</link>
     <description>Recent content in Python on Portfolio</description>
     <generator>Hugo -- 0.136.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Feb 2025 08:55:15 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Python Projects</title>
-      <link>http://localhost:1313/posts/python-projects/</link>
-      <pubDate>Wed, 12 Feb 2025 08:55:15 -0400</pubDate>
-      <guid>http://localhost:1313/posts/python-projects/</guid>
-      <description>This repository showcases a collection of my Python projects focused on data analysis, automation, and visualization.</description>
-    </item>
+    <lastBuildDate>Tue, 18 Feb 2025 06:13:23 -0400</lastBuildDate>
+    <atom:link href="https://example.org/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/posts/all-the-projects/</link>
-      <pubDate>Wed, 12 Feb 2025 08:06:46 -0400</pubDate>
-      <guid>http://localhost:1313/posts/all-the-projects/</guid>
+      <link>https://example.org/posts/all-the-projects/</link>
+      <pubDate>Tue, 18 Feb 2025 06:13:23 -0400</pubDate>
+      <guid>https://example.org/posts/all-the-projects/</guid>
       <description>Explore my data analysis projects using Tableau, Excel, Power BI, SQL, Python, and R.</description>
+    </item>
+    <item>
+      <title>Python Projects</title>
+      <link>https://example.org/posts/python-projects/</link>
+      <pubDate>Wed, 12 Feb 2025 08:55:15 -0400</pubDate>
+      <guid>https://example.org/posts/python-projects/</guid>
+      <description>This repository showcases a collection of my Python projects focused on data analysis, automation, and visualization.</description>
     </item>
   </channel>
 </rss>

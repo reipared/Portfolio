@@ -2,101 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Portfolio</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://example.org/tags/</link>
     <description>Recent content in Tags on Portfolio</description>
     <generator>Hugo -- 0.136.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Feb 2025 08:55:15 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Automation</title>
-      <link>http://localhost:1313/tags/automation/</link>
-      <pubDate>Wed, 12 Feb 2025 08:55:15 -0400</pubDate>
-      <guid>http://localhost:1313/tags/automation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Data Analysis</title>
-      <link>http://localhost:1313/tags/data-analysis/</link>
-      <pubDate>Wed, 12 Feb 2025 08:55:15 -0400</pubDate>
-      <guid>http://localhost:1313/tags/data-analysis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/tags/projects/</link>
-      <pubDate>Wed, 12 Feb 2025 08:55:15 -0400</pubDate>
-      <guid>http://localhost:1313/tags/projects/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
-      <pubDate>Wed, 12 Feb 2025 08:55:15 -0400</pubDate>
-      <guid>http://localhost:1313/tags/python/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Visualization</title>
-      <link>http://localhost:1313/tags/visualization/</link>
-      <pubDate>Wed, 12 Feb 2025 08:55:15 -0400</pubDate>
-      <guid>http://localhost:1313/tags/visualization/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Excel</title>
-      <link>http://localhost:1313/tags/excel/</link>
-      <pubDate>Wed, 12 Feb 2025 08:06:46 -0400</pubDate>
-      <guid>http://localhost:1313/tags/excel/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Portfolio</title>
-      <link>http://localhost:1313/tags/portfolio/</link>
-      <pubDate>Wed, 12 Feb 2025 08:06:46 -0400</pubDate>
-      <guid>http://localhost:1313/tags/portfolio/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Power BI</title>
-      <link>http://localhost:1313/tags/power-bi/</link>
-      <pubDate>Wed, 12 Feb 2025 08:06:46 -0400</pubDate>
-      <guid>http://localhost:1313/tags/power-bi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>R</title>
-      <link>http://localhost:1313/tags/r/</link>
-      <pubDate>Wed, 12 Feb 2025 08:06:46 -0400</pubDate>
-      <guid>http://localhost:1313/tags/r/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SQL</title>
-      <link>http://localhost:1313/tags/sql/</link>
-      <pubDate>Wed, 12 Feb 2025 08:06:46 -0400</pubDate>
-      <guid>http://localhost:1313/tags/sql/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tableau</title>
-      <link>http://localhost:1313/tags/tableau/</link>
-      <pubDate>Wed, 12 Feb 2025 08:06:46 -0400</pubDate>
-      <guid>http://localhost:1313/tags/tableau/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Tue, 18 Feb 2025 07:13:23 -0400</lastBuildDate>
+    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/tags/about-me/</link>
-      <pubDate>Tue, 11 Feb 2025 07:33:04 -0400</pubDate>
-      <guid>http://localhost:1313/tags/about-me/</guid>
+      <link>https://example.org/tags/about-me/</link>
+      <pubDate>Tue, 18 Feb 2025 07:13:23 -0400</pubDate>
+      <guid>https://example.org/tags/about-me/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Analyst</title>
-      <link>http://localhost:1313/tags/data-analyst/</link>
-      <pubDate>Tue, 11 Feb 2025 07:33:04 -0400</pubDate>
-      <guid>http://localhost:1313/tags/data-analyst/</guid>
+      <link>https://example.org/tags/data-analyst/</link>
+      <pubDate>Tue, 18 Feb 2025 07:13:23 -0400</pubDate>
+      <guid>https://example.org/tags/data-analyst/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Portfolio</title>
+      <link>https://example.org/tags/portfolio/</link>
+      <pubDate>Tue, 18 Feb 2025 07:13:23 -0400</pubDate>
+      <guid>https://example.org/tags/portfolio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Excel</title>
+      <link>https://example.org/tags/excel/</link>
+      <pubDate>Tue, 18 Feb 2025 06:13:23 -0400</pubDate>
+      <guid>https://example.org/tags/excel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Power BI</title>
+      <link>https://example.org/tags/power-bi/</link>
+      <pubDate>Tue, 18 Feb 2025 06:13:23 -0400</pubDate>
+      <guid>https://example.org/tags/power-bi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://example.org/tags/projects/</link>
+      <pubDate>Tue, 18 Feb 2025 06:13:23 -0400</pubDate>
+      <guid>https://example.org/tags/projects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://example.org/tags/python/</link>
+      <pubDate>Tue, 18 Feb 2025 06:13:23 -0400</pubDate>
+      <guid>https://example.org/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>R</title>
+      <link>https://example.org/tags/r/</link>
+      <pubDate>Tue, 18 Feb 2025 06:13:23 -0400</pubDate>
+      <guid>https://example.org/tags/r/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SQL</title>
+      <link>https://example.org/tags/sql/</link>
+      <pubDate>Tue, 18 Feb 2025 06:13:23 -0400</pubDate>
+      <guid>https://example.org/tags/sql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tableau</title>
+      <link>https://example.org/tags/tableau/</link>
+      <pubDate>Tue, 18 Feb 2025 06:13:23 -0400</pubDate>
+      <guid>https://example.org/tags/tableau/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Analysis</title>
+      <link>https://example.org/tags/data-analysis/</link>
+      <pubDate>Sun, 16 Feb 2025 11:37:55 -0400</pubDate>
+      <guid>https://example.org/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visualization</title>
+      <link>https://example.org/tags/visualization/</link>
+      <pubDate>Sun, 16 Feb 2025 11:37:55 -0400</pubDate>
+      <guid>https://example.org/tags/visualization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dashboard</title>
+      <link>https://example.org/tags/dashboard/</link>
+      <pubDate>Fri, 14 Feb 2025 07:46:00 -0400</pubDate>
+      <guid>https://example.org/tags/dashboard/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Visualization</title>
+      <link>https://example.org/tags/data-visualization/</link>
+      <pubDate>Fri, 14 Feb 2025 07:46:00 -0400</pubDate>
+      <guid>https://example.org/tags/data-visualization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Database</title>
+      <link>https://example.org/tags/database/</link>
+      <pubDate>Wed, 12 Feb 2025 12:30:00 -0400</pubDate>
+      <guid>https://example.org/tags/database/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Queries</title>
+      <link>https://example.org/tags/queries/</link>
+      <pubDate>Wed, 12 Feb 2025 12:30:00 -0400</pubDate>
+      <guid>https://example.org/tags/queries/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automation</title>
+      <link>https://example.org/tags/automation/</link>
+      <pubDate>Wed, 12 Feb 2025 08:55:15 -0400</pubDate>
+      <guid>https://example.org/tags/automation/</guid>
       <description></description>
     </item>
   </channel>

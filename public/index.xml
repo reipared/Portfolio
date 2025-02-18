@@ -2,39 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Portfolio</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on Portfolio</description>
     <generator>Hugo -- 0.136.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Feb 2025 08:55:15 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Feb 2025 07:13:23 -0400</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Python Projects</title>
-      <link>http://localhost:1313/posts/python-projects/</link>
-      <pubDate>Wed, 12 Feb 2025 08:55:15 -0400</pubDate>
-      <guid>http://localhost:1313/posts/python-projects/</guid>
-      <description>This repository showcases a collection of my Python projects focused on data analysis, automation, and visualization.</description>
+      <title>About Me</title>
+      <link>https://example.org/posts/about/</link>
+      <pubDate>Tue, 18 Feb 2025 07:13:23 -0400</pubDate>
+      <guid>https://example.org/posts/about/</guid>
+      <description>Discover my journey from IT to data analytics, my expertise, and how I help businesses make data-driven decisions.</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/posts/all-the-projects/</link>
-      <pubDate>Wed, 12 Feb 2025 08:06:46 -0400</pubDate>
-      <guid>http://localhost:1313/posts/all-the-projects/</guid>
+      <link>https://example.org/posts/all-the-projects/</link>
+      <pubDate>Tue, 18 Feb 2025 06:13:23 -0400</pubDate>
+      <guid>https://example.org/posts/all-the-projects/</guid>
       <description>Explore my data analysis projects using Tableau, Excel, Power BI, SQL, Python, and R.</description>
     </item>
     <item>
       <title>Excel Projects</title>
-      <link>http://localhost:1313/posts/excel-projects/</link>
-      <pubDate>Tue, 11 Feb 2025 08:15:13 -0400</pubDate>
-      <guid>http://localhost:1313/posts/excel-projects/</guid>
+      <link>https://example.org/posts/excel-projects/</link>
+      <pubDate>Sun, 16 Feb 2025 11:37:55 -0400</pubDate>
+      <guid>https://example.org/posts/excel-projects/</guid>
       <description>This repository showcases a collection of my Excel projects focused on data analysis and visualization.</description>
     </item>
     <item>
-      <title>About Me</title>
-      <link>http://localhost:1313/posts/about/</link>
-      <pubDate>Tue, 11 Feb 2025 07:33:04 -0400</pubDate>
-      <guid>http://localhost:1313/posts/about/</guid>
-      <description>Discover my journey from IT to data analytics, my expertise, and how I help businesses make data-driven decisions.</description>
+      <title>Tableau Projects</title>
+      <link>https://example.org/posts/tableau/</link>
+      <pubDate>Fri, 14 Feb 2025 07:46:00 -0400</pubDate>
+      <guid>https://example.org/posts/tableau/</guid>
+      <description>This repository showcases a collection of my Tableau projects focused on data visualization and storytelling.</description>
+    </item>
+    <item>
+      <title>Power Bi Projects</title>
+      <link>https://example.org/posts/power-bi/</link>
+      <pubDate>Wed, 12 Feb 2025 15:07:52 -0400</pubDate>
+      <guid>https://example.org/posts/power-bi/</guid>
+      <description>This repository showcases a collection of my Power BI projects focused on data visualization, business intelligence, and analytics.</description>
+    </item>
+    <item>
+      <title>SQL Projects</title>
+      <link>https://example.org/posts/sql-projects/</link>
+      <pubDate>Wed, 12 Feb 2025 12:30:00 -0400</pubDate>
+      <guid>https://example.org/posts/sql-projects/</guid>
+      <description>This repository showcases a collection of my SQL projects focused on data querying, cleaning, and analysis.</description>
+    </item>
+    <item>
+      <title>Python Projects</title>
+      <link>https://example.org/posts/python-projects/</link>
+      <pubDate>Wed, 12 Feb 2025 08:55:15 -0400</pubDate>
+      <guid>https://example.org/posts/python-projects/</guid>
+      <description>This repository showcases a collection of my Python projects focused on data analysis, automation, and visualization.</description>
     </item>
   </channel>
 </rss>
