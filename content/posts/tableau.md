@@ -21,7 +21,7 @@ Explore these projects to see how I transform data into compelling visual storie
 
 ## **Washington Airbnb Market 2016**
 
-![Washington Airbnb Market 2016]
+![Washington Airbnb Market 2016](https://github.com/reipared/Portfolio/blob/master/static/images/Tableau_WashingtonAirbnbMarket2016.png?raw=true)
 
 This repository contains a Tableau project created using Tableau version 18.1. It includes multiple worksheets and a dashboard that visualize data from a data source.
 
