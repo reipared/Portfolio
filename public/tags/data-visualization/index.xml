@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Data Visualization on Portfolio</title>
-    <link>https://example.org/tags/data-visualization/</link>
+    <link>http://localhost:1313/tags/data-visualization/</link>
     <description>Recent content in Data Visualization on Portfolio</description>
     <generator>Hugo -- 0.136.1</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Feb 2025 07:46:00 -0400</lastBuildDate>
-    <atom:link href="https://example.org/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tableau Projects</title>
-      <link>https://example.org/posts/tableau/</link>
+      <link>http://localhost:1313/posts/tableau/</link>
       <pubDate>Fri, 14 Feb 2025 07:46:00 -0400</pubDate>
-      <guid>https://example.org/posts/tableau/</guid>
+      <guid>http://localhost:1313/posts/tableau/</guid>
       <description>This repository showcases a collection of my Tableau projects focused on data visualization and storytelling.</description>
     </item>
     <item>
       <title>Power Bi Projects</title>
-      <link>https://example.org/posts/power-bi/</link>
+      <link>http://localhost:1313/posts/power-bi/</link>
       <pubDate>Wed, 12 Feb 2025 15:07:52 -0400</pubDate>
-      <guid>https://example.org/posts/power-bi/</guid>
+      <guid>http://localhost:1313/posts/power-bi/</guid>
       <description>This repository showcases a collection of my Power BI projects focused on data visualization, business intelligence, and analytics.</description>
     </item>
   </channel>

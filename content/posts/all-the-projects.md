@@ -35,7 +35,7 @@ I specialize in **data analysis, visualization, and automation**, using tools li
 
 This repository contains a Tableau project created using Tableau version 18.1. It includes multiple worksheets and a dashboard that visualize data from a data source.
 
-### 📊 [More Projects](https://reipared.github.io/Portfolio/posts/tableau/)
+### 📊 [More Projects](/content/posts/tableau.md)
 
 ---
 
@@ -49,7 +49,7 @@ This repository contains a Tableau project created using Tableau version 18.1. I
 
 - This Power BI report provides a breakdown of survey responses from data professionals. It visualizes key insights related to demographics, salaries, job satisfaction, and industry trends.
 
-### 📊 [More Projects](https://github.com/reipared/PowerBI_Data_Professional_Survey_Breakdown)
+### 📊 [More Projects](/posts/power-bi)
 
 ---
 
@@ -63,7 +63,7 @@ This repository contains a Tableau project created using Tableau version 18.1. I
 
 - This repository contains a comprehensive analysis of bike purchase patterns. By exploring factors like age, gender, income, and commute distance, this project aims to uncover valuable insights for bike retailers and marketers. Key techniques such as pivot tables and data visualizations were employed to identify trends and make data-driven recommendations.
 
-### 📊 [More Projects](https://reipared.github.io/Portfolio/posts/excel-projects/)
+### 📊 [More Projects](/posts/excel-projects/)
 
 ---
 
@@ -77,7 +77,7 @@ This repository contains a Tableau project created using Tableau version 18.1. I
 
 This project contains various queries to analyze COVID-19 data, focusing on cases, deaths, and infection rates across different locations.
 
-### 📊 [More Projects](https://reipared.github.io/Portfolio/posts/sql-projects/)
+### 📊 [More Projects](/posts/sql-projects)
 
 ---
 
@@ -91,7 +91,7 @@ This project contains various queries to analyze COVID-19 data, focusing on case
 
 This project is a web scraper for [Books to Scrape](https://books.toscrape.com), an online bookstore for testing web scraping scripts. The scraper downloads HTML pages from the site and extracts product information, such as book titles, prices, and URLs saving the data into a csv file.
 
-### 📊 [More Projects](https://reipared.github.io/Portfolio/posts/python-projects/)
+### 📊 [More Projects](/posts/python-projects)
 
 ## 📩 **Contact Me**
 

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>SQL on Portfolio</title>
-    <link>https://example.org/tags/sql/</link>
+    <link>http://localhost:1313/tags/sql/</link>
     <description>Recent content in SQL on Portfolio</description>
     <generator>Hugo -- 0.136.1</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 18 Feb 2025 06:13:23 -0400</lastBuildDate>
-    <atom:link href="https://example.org/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/sql/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
-      <link>https://example.org/posts/all-the-projects/</link>
+      <link>http://localhost:1313/posts/all-the-projects/</link>
       <pubDate>Tue, 18 Feb 2025 06:13:23 -0400</pubDate>
-      <guid>https://example.org/posts/all-the-projects/</guid>
+      <guid>http://localhost:1313/posts/all-the-projects/</guid>
       <description>Explore my data analysis projects using Tableau, Excel, Power BI, SQL, Python, and R.</description>
     </item>
     <item>
       <title>SQL Projects</title>
-      <link>https://example.org/posts/sql-projects/</link>
+      <link>http://localhost:1313/posts/sql-projects/</link>
       <pubDate>Wed, 12 Feb 2025 12:30:00 -0400</pubDate>
-      <guid>https://example.org/posts/sql-projects/</guid>
+      <guid>http://localhost:1313/posts/sql-projects/</guid>
       <description>This repository showcases a collection of my SQL projects focused on data querying, cleaning, and analysis.</description>
     </item>
   </channel>
