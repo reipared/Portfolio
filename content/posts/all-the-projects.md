@@ -35,7 +35,7 @@ I specialize in **data analysis, visualization, and automation**, using tools li
 
 This repository contains a Tableau project created using Tableau version 18.1. It includes multiple worksheets and a dashboard that visualize data from a data source.
 
-### 📊 [More Projects](/content/posts/tableau.md)
+### 📊 [More Projects](/posts/tableau/)
 
 ---
 
@@ -49,7 +49,7 @@ This repository contains a Tableau project created using Tableau version 18.1. I
 
 - This Power BI report provides a breakdown of survey responses from data professionals. It visualizes key insights related to demographics, salaries, job satisfaction, and industry trends.
 
-### 📊 [More Projects](/posts/power-bi)
+### 📊 [More Projects](/posts/power-bi/)
 
 ---
 
@@ -77,7 +77,7 @@ This repository contains a Tableau project created using Tableau version 18.1. I
 
 This project contains various queries to analyze COVID-19 data, focusing on cases, deaths, and infection rates across different locations.
 
-### 📊 [More Projects](/posts/sql-projects)
+### 📊 [More Projects](/posts/sql-projects/)
 
 ---
 
@@ -91,7 +91,7 @@ This project contains various queries to analyze COVID-19 data, focusing on case
 
 This project is a web scraper for [Books to Scrape](https://books.toscrape.com), an online bookstore for testing web scraping scripts. The scraper downloads HTML pages from the site and extracts product information, such as book titles, prices, and URLs saving the data into a csv file.
 
-### 📊 [More Projects](/posts/python-projects)
+### 📊 [More Projects](/posts/python-projects/)
 
 ## 📩 **Contact Me**
 
