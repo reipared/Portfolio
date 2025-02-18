@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Portfolio</title>
-    <link>https://example.org/tags/portfolio/</link>
+    <link>https://reipared.github.io/Portfolio/tags/portfolio/</link>
     <description>Recent content on Portfolio</description>
     <generator>Hugo -- 0.136.1</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 18 Feb 2025 07:13:23 -0400</lastBuildDate>
-    <atom:link href="https://example.org/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://reipared.github.io/Portfolio/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://example.org/posts/about/</link>
+      <link>https://reipared.github.io/Portfolio/posts/about/</link>
       <pubDate>Tue, 18 Feb 2025 07:13:23 -0400</pubDate>
-      <guid>https://example.org/posts/about/</guid>
+      <guid>https://reipared.github.io/Portfolio/posts/about/</guid>
       <description>Discover my journey from IT to data analytics, my expertise, and how I help businesses make data-driven decisions.</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>https://example.org/posts/all-the-projects/</link>
+      <link>https://reipared.github.io/Portfolio/posts/all-the-projects/</link>
       <pubDate>Tue, 18 Feb 2025 06:13:23 -0400</pubDate>
-      <guid>https://example.org/posts/all-the-projects/</guid>
+      <guid>https://reipared.github.io/Portfolio/posts/all-the-projects/</guid>
       <description>Explore my data analysis projects using Tableau, Excel, Power BI, SQL, Python, and R.</description>
     </item>
   </channel>
