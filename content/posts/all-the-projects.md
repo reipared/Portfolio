@@ -49,7 +49,7 @@ I specialize in **data analysis, visualization, and automation**, using tools li
 
 This repository contains a Tableau project created using Tableau version 18.1. It includes multiple worksheets and a dashboard that visualize data from a data source.
 
-### 📊 [More Projects](https://reipared.github.io/Portfolio/posts/tableau/)
+### 📊 [More Projects](https://reipared.github.io/Portfolio/posts/tableau-projects/)
 
 ---
 
