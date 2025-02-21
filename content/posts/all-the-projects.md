@@ -43,7 +43,7 @@ I specialize in **data analysis, visualization, and automation**, using tools li
 
 📅 **Date**: January 2025
 
-🔗 [View Project](https://github.com/reipared/Tableau_Washington_Airbnb_Market_2016)
+🔗 [View Project](https://github.com/reipared/Tableau_Projects/tree/main/Washington_Airbnb_Market_2016)
 
 📄 **Summary**:
 
