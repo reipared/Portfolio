@@ -29,6 +29,8 @@ This Power BI report provides a breakdown of survey responses from data professi
 
 ## **Company Quantity Performance Report 2023**
 
-![Company Quantity Performance Report 2023]()
+![Company Quantity Performance Report 2023](https://github.com/reipared/PowerBI_Performance_Report/blob/main/Performance_Report.png?raw=true)
 
 This dashboard presents a high-level view of quantity performance metrics across the year 2023, with comparisons to the previous year (PYTD) and a focus on Year-to-Date (YTD) values.
+
+📊 [**View Source**](https://github.com/reipared/PowerBI_Performance_Report)
