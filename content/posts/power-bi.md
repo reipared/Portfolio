@@ -26,3 +26,9 @@ Feel free to explore the projects and see how I use Power BI to create meaningfu
 This Power BI report provides a breakdown of survey responses from data professionals. It visualizes key insights related to demographics, salaries, job satisfaction, and industry trends.
 
 📊 [**View Source**](https://github.com/reipared/PowerBI_Data_Professional_Survey_Breakdown)
+
+## **Company Quantity Performance Report 2023**
+
+![Company Quantity Performance Report 2023]()
+
+This dashboard presents a high-level view of quantity performance metrics across the year 2023, with comparisons to the previous year (PYTD) and a focus on Year-to-Date (YTD) values.
