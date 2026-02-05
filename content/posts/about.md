@@ -17,21 +17,23 @@ In recent years, I’ve focused on **analytics-driven email marketing**, where I
 
 I’m especially comfortable working with **recurring performance data**, including **weekly, monthly, and yearly reporting, KPI tracking**, and turning **raw datasets into clear, actionable insights**. My background in IT gives me a strong foundation in **systems, data reliability, and problem-solving**, which carries through into how I approach analytics work.
 
-## 🔹My Expertise
+## 🔹What I Work With
 
-✅ **Data Analysis & Visualization** → Python (Pandas, Matplotlib, Seaborn), R, Power BI, Tableau.
+✅ **Data analysis & reporting** using Excel, SQL, Python, Power BI, and Tableau
 
-✅ **Databases & SQL** → PostgreSQL, MySQL
+✅ **Marketing and business analytics**, including KPI tracking, cohort analysis, and YoY comparisons
 
-✅ **Business & Marketing Analytics** → Customer insights, A/B testing, KPI tracking
+✅ **Email performance analysis**, segmentation, automation, and experimentation
 
-✅ **Automation & Scripting** → Python & R for automating reports
+✅ **Data cleaning and transformation** for structured performance tracking
 
-## 🚀 Why Data Analytics?
+✅ **Clear communication of insights** to technical and non-technical stakeholders
 
-I've always been passionate about **understanding patterns, making data-driven decisions, and solving business problems**.
+## 🚀 Background
 
-After working in IT and digital marketing, I realized that **data is the key to success**, and now I focus on helping businesses make the most of their data.
+Before moving fully into analytics and marketing data, I spent several years in **IT system administration and support**. That experience shaped how I think about **data quality, infrastructure, and operational efficiency**, and allows me to collaborate effectively with technical teams.
+
+Today, I focus on **using data to measure impact, improve performance, and support better decision-making**, particularly in **marketing and customer-focused environments**.
 
 ## 🌍 Let's Connect
 
