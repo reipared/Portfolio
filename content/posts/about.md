@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-date: "2025-02-18T07:13:23-04:00"
+date: "2026-02-05T07:13:23-04:00"
 draft: false
 author: "Reinaldo"
 summary: "Data analyst with a background in IT and digital marketing, specializing in performance analysis and data-driven decision-making."
