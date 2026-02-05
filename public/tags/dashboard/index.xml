@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Dashboard on Portfolio</title>
-    <link>https://reipared.github.io/Portfolio/tags/dashboard/</link>
+    <link>http://localhost:1313/Portfolio/tags/dashboard/</link>
     <description>Recent content in Dashboard on Portfolio</description>
-    <generator>Hugo -- 0.136.1</generator>
+    <generator>Hugo -- 0.155.2</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Feb 2025 07:46:00 -0400</lastBuildDate>
-    <atom:link href="https://reipared.github.io/Portfolio/tags/dashboard/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Portfolio/tags/dashboard/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tableau Projects</title>
-      <link>https://reipared.github.io/Portfolio/posts/tableau-projects/</link>
+      <link>http://localhost:1313/Portfolio/posts/tableau-projects/</link>
       <pubDate>Fri, 14 Feb 2025 07:46:00 -0400</pubDate>
-      <guid>https://reipared.github.io/Portfolio/posts/tableau-projects/</guid>
+      <guid>http://localhost:1313/Portfolio/posts/tableau-projects/</guid>
       <description>This repository showcases a collection of my Tableau projects focused on data visualization and storytelling.</description>
     </item>
   </channel>

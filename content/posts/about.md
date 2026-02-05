@@ -9,11 +9,13 @@ tags: ["Data Analyst", "Portfolio", "About Me"]
 showToc: false
 ---
 
-## 👋 Hi, I'm Reinaldo
+## Hi, I’m Reinaldo 👋
 
-I'm a **data analyst** with a strong background in **IT and Digital Marketing**, now fully transitioning into the data world.
+I’m a **bilingual Data Analyst** with a strong background in **email marketing and IT**, and over **10 years of experience** working across technical and business-focused roles. My work sits at the intersection of **data, systems, and marketing performance**.
 
-With over **10 years of experience in tech**, I combine analytical skills with business insighhts to **turn raw data into actionable strategies**.
+In recent years, I’ve focused on **analytics-driven email marketing**, where I’ve supported **end-to-end campaign execution, performance reporting, and optimization** across multiple brands. By combining **structured data analysis, segmentation, and A/B testing**, I helped drive a **72% year-over-year increase in email-driven revenue**, followed by an additional **23% growth** through sustained optimization and automation.
+
+I’m especially comfortable working with **recurring performance data**, including **weekly, monthly, and yearly reporting, KPI tracking**, and turning **raw datasets into clear, actionable insights**. My background in IT gives me a strong foundation in **systems, data reliability, and problem-solving**, which carries through into how I approach analytics work.
 
 ## 🔹My Expertise
 

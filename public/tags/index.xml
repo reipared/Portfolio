@@ -2,129 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Portfolio</title>
-    <link>https://reipared.github.io/Portfolio/tags/</link>
+    <link>http://localhost:1313/Portfolio/tags/</link>
     <description>Recent content in Tags on Portfolio</description>
-    <generator>Hugo -- 0.136.1</generator>
+    <generator>Hugo -- 0.155.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 18 Feb 2025 07:13:23 -0400</lastBuildDate>
-    <atom:link href="https://reipared.github.io/Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://reipared.github.io/Portfolio/tags/about-me/</link>
+      <link>http://localhost:1313/Portfolio/tags/about-me/</link>
       <pubDate>Tue, 18 Feb 2025 07:13:23 -0400</pubDate>
-      <guid>https://reipared.github.io/Portfolio/tags/about-me/</guid>
+      <guid>http://localhost:1313/Portfolio/tags/about-me/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Analyst</title>
-      <link>https://reipared.github.io/Portfolio/tags/data-analyst/</link>
+      <link>http://localhost:1313/Portfolio/tags/data-analyst/</link>
       <pubDate>Tue, 18 Feb 2025 07:13:23 -0400</pubDate>
-      <guid>https://reipared.github.io/Portfolio/tags/data-analyst/</guid>
+      <guid>http://localhost:1313/Portfolio/tags/data-analyst/</guid>
       <description></description>
     </item>
     <item>
       <title>Portfolio</title>
-      <link>https://reipared.github.io/Portfolio/tags/portfolio/</link>
+      <link>http://localhost:1313/Portfolio/tags/portfolio/</link>
       <pubDate>Tue, 18 Feb 2025 07:13:23 -0400</pubDate>
-      <guid>https://reipared.github.io/Portfolio/tags/portfolio/</guid>
+      <guid>http://localhost:1313/Portfolio/tags/portfolio/</guid>
       <description></description>
     </item>
     <item>
       <title>Excel</title>
-      <link>https://reipared.github.io/Portfolio/tags/excel/</link>
+      <link>http://localhost:1313/Portfolio/tags/excel/</link>
       <pubDate>Tue, 18 Feb 2025 06:13:23 -0400</pubDate>
-      <guid>https://reipared.github.io/Portfolio/tags/excel/</guid>
+      <guid>http://localhost:1313/Portfolio/tags/excel/</guid>
       <description></description>
     </item>
     <item>
       <title>Power BI</title>
-      <link>https://reipared.github.io/Portfolio/tags/power-bi/</link>
+      <link>http://localhost:1313/Portfolio/tags/power-bi/</link>
       <pubDate>Tue, 18 Feb 2025 06:13:23 -0400</pubDate>
-      <guid>https://reipared.github.io/Portfolio/tags/power-bi/</guid>
+      <guid>http://localhost:1313/Portfolio/tags/power-bi/</guid>
       <description></description>
     </item>
     <item>
       <title>Projects</title>
-      <link>https://reipared.github.io/Portfolio/tags/projects/</link>
+      <link>http://localhost:1313/Portfolio/tags/projects/</link>
       <pubDate>Tue, 18 Feb 2025 06:13:23 -0400</pubDate>
-      <guid>https://reipared.github.io/Portfolio/tags/projects/</guid>
+      <guid>http://localhost:1313/Portfolio/tags/projects/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>https://reipared.github.io/Portfolio/tags/python/</link>
+      <link>http://localhost:1313/Portfolio/tags/python/</link>
       <pubDate>Tue, 18 Feb 2025 06:13:23 -0400</pubDate>
-      <guid>https://reipared.github.io/Portfolio/tags/python/</guid>
+      <guid>http://localhost:1313/Portfolio/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>R</title>
-      <link>https://reipared.github.io/Portfolio/tags/r/</link>
+      <link>http://localhost:1313/Portfolio/tags/r/</link>
       <pubDate>Tue, 18 Feb 2025 06:13:23 -0400</pubDate>
-      <guid>https://reipared.github.io/Portfolio/tags/r/</guid>
+      <guid>http://localhost:1313/Portfolio/tags/r/</guid>
       <description></description>
     </item>
     <item>
       <title>SQL</title>
-      <link>https://reipared.github.io/Portfolio/tags/sql/</link>
+      <link>http://localhost:1313/Portfolio/tags/sql/</link>
       <pubDate>Tue, 18 Feb 2025 06:13:23 -0400</pubDate>
-      <guid>https://reipared.github.io/Portfolio/tags/sql/</guid>
+      <guid>http://localhost:1313/Portfolio/tags/sql/</guid>
       <description></description>
     </item>
     <item>
       <title>Tableau</title>
-      <link>https://reipared.github.io/Portfolio/tags/tableau/</link>
+      <link>http://localhost:1313/Portfolio/tags/tableau/</link>
       <pubDate>Tue, 18 Feb 2025 06:13:23 -0400</pubDate>
-      <guid>https://reipared.github.io/Portfolio/tags/tableau/</guid>
+      <guid>http://localhost:1313/Portfolio/tags/tableau/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Analysis</title>
-      <link>https://reipared.github.io/Portfolio/tags/data-analysis/</link>
+      <link>http://localhost:1313/Portfolio/tags/data-analysis/</link>
       <pubDate>Sun, 16 Feb 2025 11:37:55 -0400</pubDate>
-      <guid>https://reipared.github.io/Portfolio/tags/data-analysis/</guid>
+      <guid>http://localhost:1313/Portfolio/tags/data-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>Visualization</title>
-      <link>https://reipared.github.io/Portfolio/tags/visualization/</link>
+      <link>http://localhost:1313/Portfolio/tags/visualization/</link>
       <pubDate>Sun, 16 Feb 2025 11:37:55 -0400</pubDate>
-      <guid>https://reipared.github.io/Portfolio/tags/visualization/</guid>
+      <guid>http://localhost:1313/Portfolio/tags/visualization/</guid>
       <description></description>
     </item>
     <item>
       <title>Dashboard</title>
-      <link>https://reipared.github.io/Portfolio/tags/dashboard/</link>
+      <link>http://localhost:1313/Portfolio/tags/dashboard/</link>
       <pubDate>Fri, 14 Feb 2025 07:46:00 -0400</pubDate>
-      <guid>https://reipared.github.io/Portfolio/tags/dashboard/</guid>
+      <guid>http://localhost:1313/Portfolio/tags/dashboard/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Visualization</title>
-      <link>https://reipared.github.io/Portfolio/tags/data-visualization/</link>
+      <link>http://localhost:1313/Portfolio/tags/data-visualization/</link>
       <pubDate>Fri, 14 Feb 2025 07:46:00 -0400</pubDate>
-      <guid>https://reipared.github.io/Portfolio/tags/data-visualization/</guid>
+      <guid>http://localhost:1313/Portfolio/tags/data-visualization/</guid>
       <description></description>
     </item>
     <item>
       <title>Database</title>
-      <link>https://reipared.github.io/Portfolio/tags/database/</link>
+      <link>http://localhost:1313/Portfolio/tags/database/</link>
       <pubDate>Wed, 12 Feb 2025 12:30:00 -0400</pubDate>
-      <guid>https://reipared.github.io/Portfolio/tags/database/</guid>
+      <guid>http://localhost:1313/Portfolio/tags/database/</guid>
       <description></description>
     </item>
     <item>
       <title>Queries</title>
-      <link>https://reipared.github.io/Portfolio/tags/queries/</link>
+      <link>http://localhost:1313/Portfolio/tags/queries/</link>
       <pubDate>Wed, 12 Feb 2025 12:30:00 -0400</pubDate>
-      <guid>https://reipared.github.io/Portfolio/tags/queries/</guid>
+      <guid>http://localhost:1313/Portfolio/tags/queries/</guid>
       <description></description>
     </item>
     <item>
       <title>Automation</title>
-      <link>https://reipared.github.io/Portfolio/tags/automation/</link>
+      <link>http://localhost:1313/Portfolio/tags/automation/</link>
       <pubDate>Wed, 12 Feb 2025 08:55:15 -0400</pubDate>
-      <guid>https://reipared.github.io/Portfolio/tags/automation/</guid>
+      <guid>http://localhost:1313/Portfolio/tags/automation/</guid>
       <description></description>
     </item>
   </channel>

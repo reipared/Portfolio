@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Portfolio</title>
-    <link>https://reipared.github.io/Portfolio/posts/</link>
+    <link>http://localhost:1313/Portfolio/posts/</link>
     <description>Recent content in Posts on Portfolio</description>
-    <generator>Hugo -- 0.136.1</generator>
+    <generator>Hugo -- 0.155.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 18 Feb 2025 07:13:23 -0400</lastBuildDate>
-    <atom:link href="https://reipared.github.io/Portfolio/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Portfolio/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://reipared.github.io/Portfolio/posts/about/</link>
+      <link>http://localhost:1313/Portfolio/posts/about/</link>
       <pubDate>Tue, 18 Feb 2025 07:13:23 -0400</pubDate>
-      <guid>https://reipared.github.io/Portfolio/posts/about/</guid>
+      <guid>http://localhost:1313/Portfolio/posts/about/</guid>
       <description>Discover my journey from IT to data analytics, my expertise, and how I help businesses make data-driven decisions.</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>https://reipared.github.io/Portfolio/posts/all-the-projects/</link>
+      <link>http://localhost:1313/Portfolio/posts/all-the-projects/</link>
       <pubDate>Tue, 18 Feb 2025 06:13:23 -0400</pubDate>
-      <guid>https://reipared.github.io/Portfolio/posts/all-the-projects/</guid>
+      <guid>http://localhost:1313/Portfolio/posts/all-the-projects/</guid>
       <description>Explore my data analysis projects using Tableau, Excel, Power BI, SQL, Python, and R.</description>
     </item>
     <item>
       <title>Excel Projects</title>
-      <link>https://reipared.github.io/Portfolio/posts/excel-projects/</link>
+      <link>http://localhost:1313/Portfolio/posts/excel-projects/</link>
       <pubDate>Sun, 16 Feb 2025 11:37:55 -0400</pubDate>
-      <guid>https://reipared.github.io/Portfolio/posts/excel-projects/</guid>
+      <guid>http://localhost:1313/Portfolio/posts/excel-projects/</guid>
       <description>This repository showcases a collection of my Excel projects focused on data analysis and visualization.</description>
     </item>
     <item>
       <title>Tableau Projects</title>
-      <link>https://reipared.github.io/Portfolio/posts/tableau-projects/</link>
+      <link>http://localhost:1313/Portfolio/posts/tableau-projects/</link>
       <pubDate>Fri, 14 Feb 2025 07:46:00 -0400</pubDate>
-      <guid>https://reipared.github.io/Portfolio/posts/tableau-projects/</guid>
+      <guid>http://localhost:1313/Portfolio/posts/tableau-projects/</guid>
       <description>This repository showcases a collection of my Tableau projects focused on data visualization and storytelling.</description>
     </item>
     <item>
       <title>Power Bi Projects</title>
-      <link>https://reipared.github.io/Portfolio/posts/power-bi/</link>
+      <link>http://localhost:1313/Portfolio/posts/power-bi/</link>
       <pubDate>Wed, 12 Feb 2025 15:07:52 -0400</pubDate>
-      <guid>https://reipared.github.io/Portfolio/posts/power-bi/</guid>
+      <guid>http://localhost:1313/Portfolio/posts/power-bi/</guid>
       <description>This repository showcases a collection of my Power BI projects focused on data visualization, business intelligence, and analytics.</description>
     </item>
     <item>
       <title>SQL Projects</title>
-      <link>https://reipared.github.io/Portfolio/posts/sql-projects/</link>
+      <link>http://localhost:1313/Portfolio/posts/sql-projects/</link>
       <pubDate>Wed, 12 Feb 2025 12:30:00 -0400</pubDate>
-      <guid>https://reipared.github.io/Portfolio/posts/sql-projects/</guid>
+      <guid>http://localhost:1313/Portfolio/posts/sql-projects/</guid>
       <description>This repository showcases a collection of my SQL projects focused on data querying, cleaning, and analysis.</description>
     </item>
     <item>
       <title>Python Projects</title>
-      <link>https://reipared.github.io/Portfolio/posts/python-projects/</link>
+      <link>http://localhost:1313/Portfolio/posts/python-projects/</link>
       <pubDate>Wed, 12 Feb 2025 08:55:15 -0400</pubDate>
-      <guid>https://reipared.github.io/Portfolio/posts/python-projects/</guid>
+      <guid>http://localhost:1313/Portfolio/posts/python-projects/</guid>
       <description>This repository showcases a collection of my Python projects focused on data analysis, automation, and visualization.</description>
     </item>
   </channel>
