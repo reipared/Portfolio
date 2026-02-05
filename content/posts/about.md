@@ -3,8 +3,8 @@ title: "About Me"
 date: "2025-02-18T07:13:23-04:00"
 draft: false
 author: "Reinaldo"
-summary: "A passionate data analyst with a background in IT and digital marketing."
-description: "Discover my journey from IT to data analytics, my expertise, and how I help businesses make data-driven decisions."
+summary: "Data analyst with a background in IT and digital marketing, specializing in performance analysis and data-driven decision-making."
+description: "A look at my transition from IT to data analytics, my analytical skill set, and how I turn data into actionable business insights."
 tags: ["Data Analyst", "Portfolio", "About Me"]
 showToc: false
 ---
