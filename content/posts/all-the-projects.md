@@ -95,7 +95,7 @@ This project is a web scraper for [Books to Scrape](https://books.toscrape.com),
 
 ## 📩 **Contact Me**
 
-📧 [**Email**](reinaldopsuazo@proton.me)
+📧 [**Email**](mailto:reinaldopsuazo@proton.me)
 
 🔗 [**LinkedIn**](https://www.linkedin.com/in/reinaldo-pared/)
 
