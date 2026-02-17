@@ -53,7 +53,7 @@ FreeCodeCamp | 2022
 
 [View Certificate & Projects](https://www.freecodecamp.org/certification/reipared/responsive-web-design)
 
-![Legacy Responsive Web Design V8](/static/images/certifications/responsive-web-design.png)
+![Legacy Responsive Web Design V8](/images/certifications/responsive-web-design.png)
 
 - HTML and semantic structure
 - CSS and layout systems
