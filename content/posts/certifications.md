@@ -27,6 +27,8 @@ FreeCodeCamp | 2023
 
 [View Certificate & Projects](https://www.freecodecamp.org/certification/reipared/scientific-computing-with-python-v7)
 
+![Scientific Computing with Python Certificate](/public/images/certifications/scientific-computing-with-python.png)
+
 - Python fundamentals and problem solving
 - Functions, loops, and data structures
 - Algorithmic thinking
@@ -38,6 +40,8 @@ FreeCodeCamp | 2023
 
 [View Certificate & Projects](https://www.freecodecamp.org/certification/reipared/javascript-algorithms-and-data-structures)
 
+![Legacy JavaScript Algorithms and Data Structures V7](/public/images/certifications/javascript-algorithms.png)
+
 - Algorithm design and logic building
 - Problem solving and structured thinking
 - Data structures and complexity fundamentals
@@ -48,6 +52,8 @@ FreeCodeCamp | 2023
 FreeCodeCamp | 2022
 
 [View Certificate & Projects](https://www.freecodecamp.org/certification/reipared/responsive-web-design)
+
+![Legacy Responsive Web Design V8](/public/images/certifications/responsive-web-design.png)
 
 - HTML and semantic structure
 - CSS and layout systems
