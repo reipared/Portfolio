@@ -25,7 +25,7 @@ This project is a web scraper for [Books to Scrape](https://books.toscrape.com),
 
 📊 [**View Source**](https://github.com/reipared/Python_Bookstore_Web_Scraping)
 
-## **BMI Calcualtor**
+## **BMI Calculator**
 
 This project calculates the Body Mass Index (BMI) based on user input.
 
