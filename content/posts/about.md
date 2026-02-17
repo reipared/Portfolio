@@ -37,7 +37,7 @@ Today, I focus on **using data to measure impact, improve performance, and suppo
 
 ## 🌍 Let's Connect
 
-📧 [**Email**](reinaldopsuazo@proton.me)
+📧 [**Email**](mailto:reinaldopsuazo@proton.me)
 
 🔗 [**LinkedIn**](https://www.linkedin.com/in/reinaldo-pared/)
 
