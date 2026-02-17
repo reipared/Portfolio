@@ -41,4 +41,4 @@ Today, I focus on **using data to measure impact, improve performance, and suppo
 
 🔗 [**LinkedIn**](https://www.linkedin.com/in/reinaldo-pared/)
 
-📊 [**Portfolio**](https://reipared.github.io/Portfolio/)
+📊 [**GitHub**](https://github.com/reipared)
