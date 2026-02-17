@@ -5,6 +5,6 @@ draft: false
 author: "Reinaldo Pared"
 summary: "Professional certifications and ongoing training in data analysis, programming, and web development."
 description: "A list of completed and in-progress certifications supporting my work in data analytics and marketing analytics."
-tags: ["Python", "SQL", "Excel", "Tableau", "R", "Portfolio", "Projects"]
+tags: ["Python", "SQL", "Excel", "Tableau", "Portfolio", "Projects"]
 showToc: true
 ---
