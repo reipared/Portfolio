@@ -99,4 +99,4 @@ This project is a web scraper for [Books to Scrape](https://books.toscrape.com),
 
 🔗 [**LinkedIn**](https://www.linkedin.com/in/reinaldo-pared/)
 
-📊 [**Portfolio**](https://reipared.github.io/Portfolio/)
+📊 [**GitHub**](https://github.com/reipared)
