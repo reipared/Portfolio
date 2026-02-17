@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Power BI on Portfolio</title>
-    <link>http://localhost:1313/Portfolio/tags/power-bi/</link>
+    <link>http://localhost:1313/tags/power-bi/</link>
     <description>Recent content in Power BI on Portfolio</description>
     <generator>Hugo -- 0.155.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 18 Feb 2025 06:13:23 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/Portfolio/tags/power-bi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/power-bi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/Portfolio/posts/all-the-projects/</link>
+      <link>http://localhost:1313/posts/all-the-projects/</link>
       <pubDate>Tue, 18 Feb 2025 06:13:23 -0400</pubDate>
-      <guid>http://localhost:1313/Portfolio/posts/all-the-projects/</guid>
+      <guid>http://localhost:1313/posts/all-the-projects/</guid>
       <description>Explore my data analysis projects using Tableau, Excel, Power BI, SQL, Python, and R.</description>
     </item>
     <item>
       <title>Power Bi Projects</title>
-      <link>http://localhost:1313/Portfolio/posts/power-bi/</link>
+      <link>http://localhost:1313/posts/power-bi/</link>
       <pubDate>Wed, 12 Feb 2025 15:07:52 -0400</pubDate>
-      <guid>http://localhost:1313/Portfolio/posts/power-bi/</guid>
+      <guid>http://localhost:1313/posts/power-bi/</guid>
       <description>This repository showcases a collection of my Power BI projects focused on data visualization, business intelligence, and analytics.</description>
     </item>
   </channel>
