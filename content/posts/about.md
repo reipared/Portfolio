@@ -35,7 +35,13 @@ Before moving fully into analytics and marketing data, I spent several years in 
 
 Today, I focus on **using data to measure impact, improve performance, and support better decision-making**, particularly in **marketing and customer-focused environments**.
 
-## 🌍 Let's Connect
+### 🌍 Languages
+
+- **Spanish:** C2 (Native)
+- **English:** C1 (Fluent)
+- **German:** A1 (currently studying)
+
+## 🌐 Let's Connect
 
 📧 [**Email**](mailto:reinaldopsuazo@proton.me)
 
