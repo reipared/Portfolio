@@ -21,7 +21,7 @@ Feel free to explore the projects and see how I use Power BI to create meaningfu
 
 ## **Data Professional Survey Breakdown**
 
-![Data Professional Survey Breakdown](https://raw.githubusercontent.com/reipared/Portfolio/refs/heads/master/static/images/Data_Professional_Survey_Breakdown.png)
+![Data Professional Survey Breakdown](/images/Data_Professional_Survey_Breakdown.png)
 
 This Power BI report provides a breakdown of survey responses from data professionals. It visualizes key insights related to demographics, salaries, job satisfaction, and industry trends.
 
@@ -29,7 +29,7 @@ This Power BI report provides a breakdown of survey responses from data professi
 
 ## **Company Quantity Performance Report 2023**
 
-![Company Quantity Performance Report 2023](https://github.com/reipared/PowerBI_Performance_Report/blob/main/Performance_Report.png?raw=true)
+![Company Quantity Performance Report 2023](/images/Performance_Report.png)
 
 This dashboard presents a high-level view of quantity performance metrics across the year 2023, with comparisons to the previous year (PYTD) and a focus on Year-to-Date (YTD) values.
 
